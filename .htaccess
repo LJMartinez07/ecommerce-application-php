@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^detalle-producto/456456456([0-9]+)?$ detalles.php?id=$1 [QSA]
+
+
+AddDefaultCharset utf-8
