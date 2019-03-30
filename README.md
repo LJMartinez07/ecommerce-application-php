@@ -1,4 +1,4 @@
-# Ecommerce-Phone
+# Ecommerce
 In this project i do a ecommerce for sales of cellphone 
 --no profit
 # contact
